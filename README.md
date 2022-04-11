@@ -1,7 +1,10 @@
-## Hello there :O
+## Hello there
 
-Yes henlo! Here you can see the projects I'm working on, like **'Makanism'** (currently work-in-progress), a Java bot using the epic library Discord4J.
-Also, currently I am working on some other private projects in C, C#, Lua, and Java. I also do some Starbound modding, Lua stuff, and microcontroller programming. Sift around, I also do other probably unrelated stuff lol.
+Hello! Here you can see an assortment of projects I have worked on (or currently working on) in Lua, C, Java, or whatever else. Mostly doing embedded, backend, and application development stuff.
 
-:eyes:
+---
 
+### Signatures used in commits
+
+- 
+- 
