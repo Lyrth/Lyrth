@@ -6,5 +6,5 @@ Hello! Here you can see an assortment of projects I have worked on (or currently
 
 ### Signatures used in commits
 
-- 
+- `A40DC5E1E0CF43D4` 2018/05 through 2022/04 - Lyrthras 
 - 
